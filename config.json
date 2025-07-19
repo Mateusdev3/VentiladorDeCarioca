@@ -1,0 +1,15 @@
+{
+  "IpServer":"127.0.0.1",
+  "PortServer":"2302",
+  "Urlw":"http://localhost:5000/",
+  "Webl":"https://discord.com/api/webhooks/1395199478931394580/fGUJARjhaXPjRZl1_WhRGfb12wAFlJjg-7tDDqYYk_-WzB7Z-7lhyfMR-DSAfQdLveYI",
+  "Webp":"https://discord.com/api/webhooks/1395193680171896905/JB-rJYXkKsYCYwxHCSyb8nHuW8kZ315Jm1CffAEX7W1aPQqPYm574FGT1v2P1gjGhF4G",
+  "Webt":"https://discord.com/api/webhooks/1395199723891331182/9wqtxkkEZCpFBJLhokxAtzvZ8b5GbDgmL-nVexCZeN4tXCkFrOMGXx16DIkVmJYrQFgQ",
+  "Webba":"https://discord.com/api/webhooks/1395199823484944535/gxEivWpHxjJmh63alokG_rao9JGwq4z8SwbqvLI_Kz02sU3OkM_dEWzftdKsT-Knmi6Y",
+  "Webha":"teste",
+  "Temp":300,
+  "Version":"1.0",
+  "Discord":"https://discord.gg/WxSsFG7j3F",
+  "Map":"Chernarusplus",
+  "Manutencao":"false" 
+}
