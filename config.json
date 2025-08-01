@@ -1,7 +1,7 @@
 {
-  "IpServer":"127.0.0.1",
-  "PortServer":"2302",
-  "Urlw":"http://localhost:5000/",
+  "IpServer":"137.131.231.16",
+  "PortServer":"2784",
+  "Urlw":"http://137.131.231.16:7453/",
   "Webl":"https://discord.com/api/webhooks/1395199478931394580/fGUJARjhaXPjRZl1_WhRGfb12wAFlJjg-7tDDqYYk_-WzB7Z-7lhyfMR-DSAfQdLveYI",
   "Webp":"https://discord.com/api/webhooks/1395193680171896905/JB-rJYXkKsYCYwxHCSyb8nHuW8kZ315Jm1CffAEX7W1aPQqPYm574FGT1v2P1gjGhF4G",
   "Webt":"https://discord.com/api/webhooks/1395199723891331182/9wqtxkkEZCpFBJLhokxAtzvZ8b5GbDgmL-nVexCZeN4tXCkFrOMGXx16DIkVmJYrQFgQ",
